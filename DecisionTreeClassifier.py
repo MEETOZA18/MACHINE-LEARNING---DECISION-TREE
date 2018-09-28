@@ -1,6 +1,6 @@
 
 #import modules
-https://www.codechef.com/getting-startedimport pandas as pd
+import pandas as pd
 import numpy as np
 
 #can be highly used for making graphs(SEABORN can also be used.)
